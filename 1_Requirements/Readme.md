@@ -10,7 +10,7 @@ The system build in C programming language.
 Multiple choice questions will be provided to user with four options. User has to enter his/her name and select as start option to start game. After this question will appear on screen one by one user has to attempt the question by select correct option. Minimum 10 questions will be provided to user. After attempting each question quiz will end and display the score of attended user. And finally he/she can exit the game.
 
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://github.com/waghtejashri/C_Project-Quiz--LTTS/blob/main/1_Requirements/SWOT.JPG)
 
 # 4W&#39;s and 1&#39;H
 
