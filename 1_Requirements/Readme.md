@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+Quiz is a simple competition like game where user have to answers the given questions by choosing the correct option. Multiple choice question like game. Anyone can play and have fun. Use get score according to no.of question answer correctly.
 
 ## Research
 ![Description](Link to Pic)
