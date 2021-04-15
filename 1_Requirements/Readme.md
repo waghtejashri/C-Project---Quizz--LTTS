@@ -30,11 +30,31 @@ Play on desktop at any time.
 This will gives you some knowledge along with fun. Not distract you like any other game.
 
 # Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to input onto the terminal| Techincal | Implemented | 
+| HR02 | User shall be able to start the game | Techincal | Implemented |
+| HR03 | User shall be able to get help | Techincal | Implemented |
+| HR04 | User should see the questions on the terminal. | Technical | Implemented |
+| HR05 | The score should be get calculated correctly. | Technical | Implemented |
+| HR06 | Score should be displayed on screen. | Technical | Implemented |
+| HR07 | User should be able to exit. | Technical | Implemented |
+
+
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | User should be able to input the name | HR01 | Implemented |
+| LR02 | User should be able to select start or exit game.| HR02 | Implemented |
+| LR03 | Function to get help | HR03 | Implemented |
+| LR04 | User should be able to select the option. | HR04 | Implemented |
+| LR05 | Score should be calculate for correct answer | HR05 | Implemented |
+| LR06 | Function to display score | HR06 | Implemented |
+| LR07 | Function to start game | HR02 | Implemented |
+| LR08 | Test cases for select answers   | HR04 | Implemented |
+| LR09 | Implementation Testing  | HR01,HR02,HR03,HR04,HR05,HR06 | Implemented |
+
+
