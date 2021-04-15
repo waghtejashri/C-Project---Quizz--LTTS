@@ -15,24 +15,19 @@ Multiple choice questions will be provided to user with four options. User has t
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-
-**TBD**
+Anyone who is interested to play quiz. 
 
 ## What:
-
-**TBD**
+Play the game and got the good score by selecting the correct answers. The more you click correctly the more you score.
 
 ## When:
-
-**TBD**
+Whenever who want to have time to play and enjoy the questions/answers. In free time.
 
 ## Where:
-
-**TBD**
+Play on desktop at any time.
 
 ## How:
-
-**TBD**
+This will gives you some knowledge along with fun. Not distract you like any other game.
 
 # Detail requirements
 ## High Level Requirements:
