@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-Quiz is a simple competition like game where user have to answers the given questions by choosing the correct option. Multiple choice question like game. Anyone can play and have fun. Use get score according to no.of question answer correctly.
+A Quiz is a simple competition like game where user have to answers the given questions by choosing the correct option. Multiple choice question like game. Anyone can play and have fun. Use get score according to no.of question answer correctly. We can say it's a mind sport in which players attempt to answer the given questions correctly by choosing a right option. Quizess can be used as a assesment in college or quiz competition on topics like general knowledge, apptitude or any other trending topics.
 
 ## Research
 ![Description](Link to Pic)
