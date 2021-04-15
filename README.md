@@ -1,6 +1,6 @@
 ## C-Project-Quiz--LTTS
 
-# SDLC Activity Based Learning
+## SDLC Activity Based Learning
 
 Visit [Pages for Report -optional](using github.io option)
 
