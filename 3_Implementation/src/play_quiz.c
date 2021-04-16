@@ -1,7 +1,6 @@
 #include "play_quiz.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include<conio.h>
 #include<ctype.h>
 #include<string.h>
 
