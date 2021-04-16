@@ -4,11 +4,10 @@
 
 Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector]
-[![Contribution check](https://github.com/waghtejashri/C_Project-Quiz--LTTS/actions/workflows/gitinspector.yml/badge.svg)]
-(https://github.com/waghtejashri/C_Project-Quiz--LTTS/actions/workflows/gitinspector.yml)
+|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [![C Build Status](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cbuild.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cbuild.yml) |[![Unit Testing](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/unitTesting.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/unitTesting.yml)|[![cppcheck-action](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/cppcheck.yml)|[![Dynamic Analysis](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/dynamic_code_quality.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/dynamic_code_quality.yml)|[![CI-Coverage](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/coverage.yml/badge.svg)](https://github.com/shubh-77/LnT_Mini_Project/actions/workflows/coverage.yml)|[![Contribution check](https://github.com/waghtejashri/C_Project-Quiz--LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/waghtejashri/C_Project-Quiz--LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/waghtejashri/C_Project-Quiz--LTTS/actions/workflows/gitinspector.yml)|
+
 
 ## Folder Structure
 Folder             | Description
