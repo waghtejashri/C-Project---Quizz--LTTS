@@ -6,7 +6,6 @@
 #include "play_quiz.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include<conio.h>
 #include<ctype.h>
 #include<string.h>
 
@@ -38,18 +37,24 @@ int main()
 void playQuiz()
 {
     struct quiz q1;
-    char option;
+    int option;
     // main_menu:           // goto definition to jump on main menu. 
     printf("\n _______________________________________________");
-    printf("\n\t > Press - S to start the game");
-    printf("\n\t > Press - V to view the highest score  ");
+    printf("\n\t > Press - 1 to start the game");
+    printf("\n\t > Press - 2 to view the highest score  ");
     // printf("\n\t > Press - R to reset score");
-    printf("\n\t > press - H for help            ");
-    printf("\n\t > press - Q to quit             ");
+    printf("\n\t > press - 3 for help            ");
+    printf("\n\t > press - 4 to quit             ");
     printf("\n _______________________________________________\n\n");
     
-    option=toupper(getch());
-    if (option=='V')
+    scanf("%d", &option);
+    if(option==1){
+        system("cls");
+		// printf("\n ~ Resister your name : ");
+    	// gets(name);
+        startQuiz(q1);
+    }
+    else if (option==2)
 	{
 		int ch = displayRecord(q1);
         if(ch==1)  
@@ -62,7 +67,7 @@ void playQuiz()
         }   
 		// goto main_menu;
 	}
-     else if (option=='H')
+     else if (option==3)
 	{
 		int ch = help();
         if(ch==1)  
@@ -73,18 +78,13 @@ void playQuiz()
         {  
             exit(1);  
         }  
-  
-        getch();
 		// goto main_menu;
 	}
 
-	else if (option=='Q')
+	else if (option==4)
 		exit(1);
 
-    else{
-        system("cls");
-		// printf("\n ~ Resister your name : ");
-    	// gets(name);
-        startQuiz(q1);
+    else {
+        exit(1);
     }
 }
